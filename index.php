@@ -20,7 +20,8 @@
             </tr>
         </thead>
     </table>
-    <table id="myTable" class="display">
+    
+    <!-- <table id="myTable" class="display">
         <thead>
             <tr>
                 <th>ID</th>
@@ -28,7 +29,7 @@
                 <th>Email</th>
             </tr>
         </thead>
-        <!-- <tbody>
+         <tbody>
         <tr>
             <td>Row 1 Data 1</td>
             <td>Row 1 Data 2</td>
@@ -37,8 +38,8 @@
             <td>Row 2 Data 1</td>
             <td>Row 2 Data 2</td>
         </tr>
-    </tbody> -->
-    </table>
+    </tbody>
+    </table> -->
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
